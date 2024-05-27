@@ -1,12 +1,12 @@
-<h1 style="font-family:'Courier New'"> CoRide </h1>
-<h2 style="font-family:'Courier New'"> Share a Ride! </h2>
+<h1 style="font-family:'Courier New'"> CoRide</h1>
+<h2 style="font-family:'Courier New'"> Car Pooling Application</h2>
 Car pooling, also known as car sharing, is a transportation strategy where multiple individuals share a vehicle to travel together to a common destination. The theory behind car pooling is to reduce the number of cars on the road, ease traffic congestion, and lower carbon emissions.
 <br> </br>
 The idea of car pooling is rooted in the concept of sharing resources. By sharing a car, the costs associated with owning and maintaining a vehicle are spread among several people, reducing the financial burden on individual drivers. 
 <br> </br>
 In a carpooling app, the 'Rider' and 'Driver' roles are the two primary roles that users can assume. The rider is the person who is <b>seeking</b> a ride, while the driver is the person who is <b>offering</b> a ride.
 <br> </br>
-<img src="https://cdn.vectorstock.com/i/1000x1000/36/75/online-ordering-taxi-car-rent-and-sharing-using-vector-30913675.webp" alt="img"  />
+<img src="/carpool/src/Images/carpool3.jpg" alt="img"  />
 <h1> Roles </h1>
 <ul>
   <li> Driver </li>
