@@ -9,7 +9,7 @@ import './Search.css';
 import { useNavigate } from 'react-router-dom';
 import MapComponent from '../map/MapComponent';
 
-const GOOGLE_MAP_API = "AIzaSyAYzgZ0C3PTyIDitR7BJ4Jvc-t6Y3G014s";
+const GOOGLE_MAP_API = "";
 
 const containerStyle = {
   width: '550px',

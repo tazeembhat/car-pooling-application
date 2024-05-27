@@ -1,7 +1,7 @@
 import React,  {useEffect, useState} from 'react';
 import { distanceMatrix } from '@googlemaps/google-maps-services-js';
 
-const GOOGLE_MAP_API = "AIzaSyAYzgZ0C3PTyIDitR7BJ4Jvc-t6Y3G014s";
+const GOOGLE_MAP_API = "";
 
 const NearestDriver = ({riderLocation, driverData}) =>{
     const [nearestDriver, setNearestDriver] = useState(null);

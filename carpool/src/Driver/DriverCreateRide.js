@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 import { useJsApiLoader ,GoogleMap, LoadScript, DirectionsService, DirectionsRenderer,Autocomplete } from '@react-google-maps/api';
 import './DriverCreateRide.css';
 
-const GOOGLE_MAP_API = "AIzaSyAYzgZ0C3PTyIDitR7BJ4Jvc-t6Y3G014s";
+const GOOGLE_MAP_API = "";
 
 const libraries = ['places'];
 const DriverRide = () => {
